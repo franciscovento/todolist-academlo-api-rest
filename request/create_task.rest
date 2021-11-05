@@ -1,0 +1,14 @@
+POST http://localhost:8000/api/tasks
+content-type: application/json
+
+{
+    "content": "Me tengo que suscribir a gonzalo"
+}
+
+###
+POST http://localhost:8000/api/tasks
+content-type: application/json
+
+{
+    
+}
